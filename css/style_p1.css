@@ -1,0 +1,14 @@
+body {
+    background: url(../img/p1.jpg) no-repeat; 
+    background-color: #000; 
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+}
+
+.pagination{
+	margin-top: 48%;
+	width: 10%;
+	margin-left: 45%;
+}

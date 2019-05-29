@@ -1,0 +1,45 @@
+body {
+    background: url(../img/body.jpg) no-repeat; 
+    background-color: #000; 
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+}
+.driver{
+	margin-left: 25%;	
+	width: 50%;
+}
+H1 {
+	background-color: white;
+    color: #FF1493; 
+    font-size: 200%; 
+    text-align: center;
+}
+H2 {
+	background-color: white;
+    color: #FF1493; 
+    font-size: 200%; 
+    text-align: center;
+} 
+H4 {
+	background-color: white;
+    color: #FF1493; 
+    font-size: 200%; 
+    text-align: center;
+}
+H5 {
+	background-color: white;
+    color: #FF1493; 
+    font-size: 200%; 
+    text-align: center;
+}
+.alert{
+	text-align: center;
+}
+
+.pagination{
+	margin-top: 48%;
+	width: 10%;
+	margin-left: 45%;
+}
